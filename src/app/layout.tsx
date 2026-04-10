@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     locale: 'en_US',
     url: SITE_URL,
     siteName: 'kingsleydaprime',
-    title: 'Kingsley Ihemelandu | kingsleydaprime',
+    title: SITE_TITLE,
     description:
       'Systems Engineer, Software Developer, and Founder. Building at the intersection of systems, intelligence, and impact.',
     images: [
