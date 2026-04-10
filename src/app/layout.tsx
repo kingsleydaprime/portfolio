@@ -7,7 +7,7 @@ import Footer from "@/components/layout/footer";
 import { KEYWORDS, SITE_TITLE, SITE_URL } from "@/constants";
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://kingsleydaprime.com'),
+  metadataBase: new URL(SITE_URL),
   title: {
     default: SITE_TITLE,
     template: '%s | kingsleydaprime',
