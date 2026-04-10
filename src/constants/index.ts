@@ -1,6 +1,6 @@
 export const SITE_URL = 'https://kingsleydaprime.vercel.app'
 export const SITE_NAME = 'kingsleydaprime'
-export const SITE_TITLE = 'Kingsley Ihemelandu | kingsleydaprime'
+export const SITE_TITLE = 'Kingsley Ihemelandu | kingsleydaprime - Systems Engineer & Builder'
 export const SITE_DESCRIPTION =
   'Systems Engineer, Software Developer, and Founder. Building at the intersection of systems, intelligence, and impact. Based in Lagos, Nigeria.'
 export const TWITTER_HANDLE = '@kingsleydaprime'
