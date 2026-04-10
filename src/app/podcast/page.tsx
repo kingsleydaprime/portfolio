@@ -15,13 +15,13 @@ export const metadata: Metadata = {
       'Conversations about tech, faith, personal development and the journey of becoming.',
     url: `${SITE_URL}/podcast`,
     // TODO: Implement OG Image
-    images: [{ url: '/og-image.png', width: 1200, height: 630 }],
+    images: [{ url: '/og-image.webp', width: 1200, height: 630 }],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'The Growth Podcast | kingsleydaprime',
     description: 'Conversations about tech, faith, personal development and the journey of becoming.',
-    images: ['/og-image.png'],
+    images: ['/og-image.webp'],
   },
 }
 

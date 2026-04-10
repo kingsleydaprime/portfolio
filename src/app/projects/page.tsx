@@ -13,13 +13,13 @@ export const metadata: Metadata = {
       'A full portfolio of projects by Kingsley Ihemelandu — spanning backend systems, frontend interfaces, robotics, AI, and more.',
     url: `${SITE_URL}/projects`,
     // TODO: Implement OG Image
-    images: [{ url: '/og-image.png', width: 1200, height: 630 }],
+    images: [{ url: '/og-image.webp', width: 1200, height: 630 }],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Projects | kingsleydaprime',
     description: 'A full portfolio of projects by Kingsley Ihemelandu.',
-    images: ['/og-image.png'],
+    images: ['/og-image.webp'],
   },
 }
 

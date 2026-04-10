@@ -27,7 +27,7 @@ export const metadata: Metadata = {
       'Systems Engineer, Software Developer, and Founder. Building at the intersection of systems, intelligence, and impact.',
     images: [
       {
-        url: '/og-image.png',
+        url: '/og-image.webp',
         width: 1200,
         height: 630,
         alt: 'Kingsley Ihemelandu — kingsleydaprime',
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     description:
       'Systems Engineer, Software Developer, and Founder. Building at the intersection of systems, intelligence, and impact.',
     creator: '@kingsleydaprime',
-    images: ['/og-image.png'],
+    images: ['/og-image.webp'],
   },
   robots: {
     index: true,

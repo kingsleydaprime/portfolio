@@ -13,13 +13,13 @@ export const metadata: Metadata = {
       'Academic background of Kingsley Ihemelandu — B.Eng Systems Engineering, University of Lagos.',
     url: `${SITE_URL}/education`,
     // TODO: Implement OG Image
-    images: [{ url: '/og-image.png', width: 1200, height: 630 }],
+    images: [{ url: '/og-image.webp', width: 1200, height: 630 }],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Education | kingsleydaprime',
     description: 'Academic background of Kingsley Ihemelandu.',
-    images: ['/og-image.png'],
+    images: ['/og-image.webp'],
   },
 }
 
