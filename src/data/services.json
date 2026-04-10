@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Full Stack Development",
+    "description": "End to end web applications built with clean architecture, from database design to polished user interfaces. I own the whole system.",
+    "icon": "layers"
+  },
+  {
+    "id": 2,
+    "title": "Backend Development",
+    "description": "Scalable APIs, robust databases, authentication systems, and server infrastructure. Built to perform under pressure and grow with your product.",
+    "icon": "server"
+  },
+  {
+    "id": 3,
+    "title": "Frontend Development",
+    "description": "Fast, accessible, and visually sharp interfaces using React and Next.js. The kind of frontend that feels as good as it looks.",
+    "icon": "monitor"
+  },
+  {
+    "id": 4,
+    "title": "Mobile Development",
+    "description": "Cross-platform mobile applications that feel native. Clean UX, solid performance, built for real users.",
+    "icon": "smartphone"
+  },
+  {
+    "id": 5,
+    "title": "AI & ML Integration",
+    "description": "Integrating machine learning models, computer vision pipelines, and AI features into real products. Practical AI, not just demos.",
+    "icon": "brain"
+  }
+]

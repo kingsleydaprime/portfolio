@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "role": "Software Engineer",
+    "company": "Nextvibe",
+    "type": "Full-time",
+    "location": "Lagos, Nigeria",
+    "startDate": "2024",
+    "endDate": "Present",
+    "description": "Built and maintained the full backend infrastructure for a social event platform. Architected 11 core modules using NestJS, integrated PostgreSQL and Redis, and deployed on Render with Aiven cloud services.",
+    "tags": ["NestJS", "PostgreSQL", "Redis", "Docker", "TypeScript"]
+  },
+  {
+    "id": 2,
+    "role": "Founder & CEO",
+    "company": "Spectroniq Limited",
+    "type": "Founder",
+    "location": "Lagos, Nigeria",
+    "startDate": "2023",
+    "endDate": "Present",
+    "description": "Founded and registered a technology company focused on building software products and providing engineering services. RC-8203175.",
+    "tags": ["Entrepreneurship", "Product", "Engineering"]
+  },
+  {
+    "id": 3,
+    "role": "Web Developer",
+    "company": "US-Ghana Chamber of Commerce",
+    "type": "Contract",
+    "location": "Remote",
+    "startDate": "2024",
+    "endDate": "2024",
+    "description": "Designed and developed the chamber's website using WordPress, Elementor, and Astra theme. Integrated event management via the My Calendar plugin.",
+    "tags": ["WordPress", "Elementor", "Web Design"]
+  }
+]

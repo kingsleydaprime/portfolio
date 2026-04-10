@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "degree": "B.Eng. Systems Engineering",
+    "institution": "University of Lagos",
+    "location": "Lagos, Nigeria",
+    "startDate": "2021",
+    "endDate": "2026",
+    "description": "A 5-year engineering program covering systems design, control theory, embedded systems, mechatronics, numerical methods, and stochastic models. Currently in Year 4.",
+    "highlights": [
+      "Completed robotics projects using ROS2, TurtleBot3 and YOLOv8",
+      "Strong focus on numerical methods, simulation and control systems",
+      "Active in the Igbo Students Union as Public Relations Officer"
+    ],
+    "coursework": [
+      "Control Systems Analysis",
+      "Mechatronics",
+      "Embedded Systems",
+      "Systems Simulation",
+      "Numerical Methods",
+      "Engineering Statistics",
+      "Stochastic Models",
+      "Digital Electronics",
+      "Signal Processing",
+      "Engineering Mathematics"
+    ],
+    "tags": ["Systems Engineering", "Robotics", "Control Theory", "Embedded Systems"]
+  }
+]

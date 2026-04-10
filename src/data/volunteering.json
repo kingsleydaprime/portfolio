@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "role": "Founder & Lead",
+    "organization": "The Kaizen Project",
+    "period": "2024 — Present",
+    "description": "A community impact initiative targeting personal development and health awareness. Applying for the Millennium Fellowship with SDG 3 focus, targeting 100 lives across 6 sessions.",
+    "tags": ["Community", "SDG 3", "Leadership"]
+  },
+  {
+    "id": 2,
+    "role": "Millennium Fellow (Applicant)",
+    "organization": "Millennium Fellowship — UNAI",
+    "period": "2025",
+    "description": "Applied as a Millennium Fellow under UNAI Principle 2 and SDG 3, representing The Kaizen Project as a vehicle for community health and personal development impact.",
+    "tags": ["UN", "Fellowship", "SDG 3"]
+  },
+  {
+    "id": 3,
+    "role": "Campus Ambassador",
+    "organization": "Cowrywise",
+    "period": "2024 — Present",
+    "description": "Representing Cowrywise on campus, promoting financial literacy and smart savings habits among students at the University of Lagos.",
+    "tags": ["Fintech", "Financial Literacy", "Campus"]
+  },
+  {
+    "id": 4,
+    "role": "Public Relations Officer",
+    "organization": "Igbo Students Union — UNILAG",
+    "period": "2024 — Present",
+    "description": "Managing communications and public relations for the Igbo Students Union at UNILAG. Also edits and produces the union's monthly podcast.",
+    "tags": ["Leadership", "Communications", "Podcast"]
+  },
+  {
+    "id": 5,
+    "role": "Community Member",
+    "organization": "PalDevs",
+    "period": "2024 — Present",
+    "description": "Active member of PalDevs, a developer community focused on building, learning, and growing together as engineers.",
+    "tags": ["Community", "Developer", "Networking"]
+  }
+]

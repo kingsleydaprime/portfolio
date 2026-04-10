@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "quote": "Kingsley is one of those engineers you come across once in a long while. He doesn't just write code — he thinks through systems, asks the right questions, and delivers beyond what you asked for. Building Nextvibe's backend with him was one of the best technical decisions we made.",
+    "name": "Simi Peters",
+    "role": "Founder",
+    "company": "Nextvibe",
+    "image": ""
+  },
+  {
+    "id": 2,
+    "quote": "Working with Kingsley showed me what it means to be a serious engineer. He picks things up faster than anyone I've seen, and he brings a level of intentionality to his work that is rare at his stage. Whoever gets him on their team is lucky.",
+    "name": "Arinze",
+    "role": "Engineer",
+    "company": "",
+    "image": ""
+  },
+  {
+    "id": 3,
+    "quote": "Kingsley is the kind of colleague that raises the bar for everyone around him. He's thorough, reliable, and always willing to help without making you feel less. One of the best I've worked with at Nextvibe without question.",
+    "name": "Isabella Nadia",
+    "role": "Coworker",
+    "company": "Nextvibe",
+    "image": ""
+  },
+  {
+    "id": 4,
+    "quote": "I've worked with a lot of developers but Kingsley stands out. He has this rare combination of technical depth and clear communication. He doesn't just build what you ask — he understands why you're asking and builds what you actually need.",
+    "name": "Ebuka Ejiofor",
+    "role": "Coworker",
+    "company": "Indulgetix",
+    "image": ""
+  },
+  {
+    "id": 5,
+    "quote": "Kingsley brought a level of professionalism and technical clarity that exceeded my expectations. He is driven, thoughtful, and genuinely invested in the success of what he builds. I would work with him again without hesitation.",
+    "name": "Ibukun Agboola",
+    "role": "Founder",
+    "company": "Kaza Inc",
+    "image": ""
+  }
+]

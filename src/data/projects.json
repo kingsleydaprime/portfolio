@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "title": "Nextvibe Backend",
+    "description": "Full backend infrastructure for a social event platform. 11 modules, REST API with Swagger docs, deployed on Render with Aiven PostgreSQL and Redis.",
+    "type": ["Backend"],
+    "language": ["TypeScript"],
+    "tools": ["NestJS", "PostgreSQL", "Redis", "Docker", "Prisma"],
+    "date": "2024",
+    "image": "",
+    "liveUrl": "",
+    "githubUrl": "https://github.com/kingsleydaprime/nextvibe-backend",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Autonomous Robot Navigation",
+    "description": "Vision-based autonomous robot navigation system using TurtleBot3, Gazebo simulation, and OpenCV HSV color segmentation for real-time path detection.",
+    "type": ["Robotics", "ML"],
+    "language": ["Python"],
+    "tools": ["ROS2", "TurtleBot3", "Gazebo", "OpenCV"],
+    "date": "2024",
+    "image": "",
+    "liveUrl": "",
+    "githubUrl": "https://github.com/kingsleydaprime/robot-navigation",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "title": "YOLOv8 Object Detection Pipeline",
+    "description": "Real-time object detection pipeline integrated with ROS2 Jazzy. Uses YOLOv8 for detection and publishes results to ROS2 topics for downstream processing.",
+    "type": ["ML", "Robotics"],
+    "language": ["Python"],
+    "tools": ["YOLOv8", "ROS2", "OpenCV", "PyTorch"],
+    "date": "2024",
+    "image": "",
+    "liveUrl": "",
+    "githubUrl": "https://github.com/kingsleydaprime/yolov8-ros2",
+    "featured": true
+  }
+]

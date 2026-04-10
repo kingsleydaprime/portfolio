@@ -1,0 +1,34 @@
+[
+  {
+    "category": "Languages",
+    "skills": ["Python", "TypeScript", "JavaScript", "Go", "C", "C++", "Java", "Bash"]
+  },
+  {
+    "category": "Frontend",
+    "skills": ["React", "Next.js", "Tailwind CSS", "HTML", "CSS"]
+  },
+  {
+    "category": "Backend",
+    "skills": ["NestJS", "Node.js", "Express", "Django", "REST API", "GraphQL"]
+  },
+  {
+    "category": "Databases",
+    "skills": ["PostgreSQL", "MySQL", "Redis", "Prisma"]
+  },
+  {
+    "category": "DevOps & Cloud",
+    "skills": ["Docker", "AWS", "Linux", "Git", "GitHub Actions", "Render", "Nginx"]
+  },
+  {
+    "category": "AI & ML",
+    "skills": ["YOLOv8", "OpenCV", "PyTorch", "TensorFlow", "Scikit-learn", "Pandas", "NumPy"]
+  },
+  {
+    "category": "Robotics",
+    "skills": ["ROS2", "TurtleBot3", "Gazebo", "Arduino", "ESP32"]
+  },
+  {
+    "category": "Tools",
+    "skills": ["Postman", "Swagger", "Figma", "VS Code", "Notion"]
+  }
+]
